@@ -1,18 +1,18 @@
-# CSc 71010: Programming Languages
+# CSc 81010: Compiler Design & Implementation
 
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Graduate Center.
 
 ## Details 
 
 Field | Value
------ | -----
+--- | ---
 **Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
 **Office:** | TBD
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | TBD
-**Office hours:** | See [Bb].
-**Semester:** | Spring 2025
-**Section:** | CSc 71010-01 (53327)
+**Office hour:** | T 11:45 am--12:45 pm or by appointment
+**Semester:** | Spring 2026
+**Section:** | CSc 81010-01 (54198)
 
 ## Course Description
 
@@ -123,7 +123,7 @@ Emails to the instructor must be via a CUNY GC email address for FERPA reasons. 
 
 ## Bulletin Board
 
-Students should check the [CUNY Blackboard][Blackboard] (Bb) regularly for class materials. Students should ensure that they have configured Bb to use a *CUNY* email address. Students are responsible for any emails the instructor send there.
+Students should check the [Brightspace site][Brightspace]{target="_blank"} regularly for class materials. Students should ensure that they have configured Brightspace to use a *CUNY* email address. Students are responsible for any email the instructor send there.
 
 ## Counseling & Wellness Services
 
@@ -154,6 +154,6 @@ Raffi Khatchadourian is an Associate Professor in the Computer Science Departmen
 Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
 
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
-[Blackboard]: http://bbhosted.cuny.edu
+[Brightspace]: http://brightspace.cuny.edu
 [ferpa]: https://gc.catalog.cuny.edu/general-information/student-rights-concerning-education-records
 [Bb]: http://bbhosted.cuny.edu

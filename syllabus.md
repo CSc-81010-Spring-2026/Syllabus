@@ -7,7 +7,7 @@
 Field | Value
 --- | ---
 **Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
-**Office:** | TBD
+**Office:** | Graduate Center, Room 4327
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | TBD
 **Office hour:** | T 11:45 am--12:45 pm or by appointment
@@ -28,34 +28,27 @@ This course delves into the theory and practical application of modern compiler 
 - Code optimization techniques
 - Machine code generation
 - Run-time environments
-- Advanced topics (time permitting, e.g., compilers for Deep Learning [DL], JIT compilation, LLMs in compiler construction)
+- Advanced topics (e.g., compilers for Deep Learning [DL], JIT compilation, LLMs in compiler construction)
 
-## Prerequisites
+## Suggested Previous Courses and Knowledge
+
+- CSc 70010: Algorithms.
+- Computer Theory or equivalent, including formal languages and grammars.
+- An undergraduate course in programming languages or compiler construction.
+- Programming experience in an imperative and Object-Oriented, high-level language (e.g., C++, Java, Python).
 
 It is recommended that students have a background in the following areas before taking this course:
 
-### Algorithms
-
-An undergraduate or graduate course in algorithms is recommended (e.g., CSc 70010: Algorithms).
-
-### Programming Languages and Formal Methods
-
-An undergraduate or graduate course in programming languages is recommended (e.g., CSc 71010: Programming Languages), along with familiarity with formal languages and grammars.
-
-### Programming Experience
-
-Practical experience in an imperative and Object-Oriented language (e.g., C++, Java, Python).
-
 ## Textbooks and Materials
 
-While there are no required texts, there are readings from the books listed below. All books are available at the library, but please do not check them out from the GC library. I have entered a reservation request.
+While there are no required texts, there are readings from the books listed below. All books are available at the library, but please do not check them out from the GC library. I have entered a reservation request. I also have a (signed :)) copy of "Compilers: Principles, Techniques, and Tools (2nd ed., commonly known as the "Dragon Book") in my office at Hunter College if you would like to borrow it.
 
 Title | Author | ISBN
 --- | --- | ---
 [Compilers: Principles, Techniques, & Tools (2nd ed.)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/16jbkos/alma990090633750106140) | Aho, Lam, Sethi, and Ullman | 9780321486813
 [Modern Compiler Implementation in Java (2nd Edition)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma991023125509706121) | Appel, Andrew W. | 9780521820608
 
-I will be working to put these books on reserve at the library. Therefore, please do not personally check any out in the meantime. I also have a (signed :)) copy of "Compilers: Principles, Techniques, and Tools (2nd ed., commonly known as the "Dragon Book") in my office at Hunter College if you would like to borrow it. Please also refer to [my notes on type constraints][type constraints].
+Please also refer to [my notes on type constraints][type constraints].
 
 ## Learning Goals
 
@@ -78,14 +71,11 @@ Participation | 5%
 
 Event | Date
 --- | ---
-Classes begin | Jan 26
 No classes scheduled | Feb 17
-No classes scheduled | Mar 20
 Spring recess | Apr 1--9
-Last day to withdraw with a "W" | Apr 13
+Withdrawal deadline | Apr 13
 Classes follow a Thursday schedule | Apr 21
 Final exam period | May 19--26
-End of Spring term | May 26
 
 ## Projects
 
@@ -95,8 +85,9 @@ The course will include several programming projects. Each project will be submi
 
 - **Deadlines** and **due dates** for all projects will be announced in class.
 - **Late submissions will be penalized.**
-- Submitted code that does not compile will receive an automatic grade of zero.
 - Extensions for extra credit assignments, if applicable, will not be granted.
+- Assignments must result from **individual** effort unless otherwise specified (e.g., group projects).
+- Submitted code that does not compile will receive an automatic grade of zero.
 - Students are responsible for thoroughly reading project descriptions. Clarification should be sought from the instructor promptly if any part is unclear.
 - Comprehensive test cases are the responsibility of the student. Any simple test cases provided are for basic verification only.
 - All projects are due by 11:59 pm on the assigned date. Please plan accordingly to avoid last-minute issues.
@@ -121,7 +112,10 @@ Questions will focus on the conceptual understanding and practical application o
 
 ### Make-up Policy
 
-A missed quiz will receive a score of zero. Exceptions may be granted for documented medical or family emergencies if the instructor is notified in advance via email.
+Quiz make-ups will be given if and only if:
+
+- the request is made sufficiently in advance of the quiz, and
+- the make-up is scheduled prior to the next class.
 
 ## Attendance
 
@@ -150,7 +144,7 @@ Submitting work (whether your own or another's) from previous courses, even if m
 
 ## Office Hours
 
-Office hours will be held in person once a week. See Brightspace for details. Attending office hours is optional, no appointment is necessary, and appointments cannot be made during office hours. Students should arrange an alternative meeting time if the scheduled office hours conflict with their schedules.
+Office hours will be held in person once a week. Attending office hours is optional, no appointment is necessary, and appointments cannot be made during office hours. Students should arrange an alternative meeting time if the scheduled office hours conflict with their schedules.
 
 ## Email
 

@@ -79,7 +79,6 @@ Participation | 5%
 Event | Date
 --- | ---
 Classes begin | Jan 26
-Midterm exam | Mar 17
 No classes scheduled | Feb 17
 No classes scheduled | Mar 20
 Spring recess | Apr 1--9

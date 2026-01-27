@@ -10,7 +10,7 @@ Field | Value
 **Office:** | Graduate Center, Room 4327
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | TBD
-**Office hour:** | T 11:45 am--12:45 pm or by appointment
+**Office hour:** | T 11:45 am--12:45 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments/)
 **Semester:** | Spring 2026
 **Section:** | CSc 81010-01 (54198)
 

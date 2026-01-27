@@ -1,13 +1,25 @@
 PDF=csc_81010_sp2026_syllabus
 MD=syllabus
 HTML=syllabus
+
+.PHONY: all html preview-html pdf preview-pdf open clean
+
+all: html pdf
+
 html:
 	pandoc -M document-css=false --shift-heading-level-by=-1 --toc --columns=1000 -s $(MD).md -o $(HTML).html
+
 preview-html: html
 	gio open $(HTML).html
+
 pdf:
 	pandoc -V geometry:margin=1in -f gfm $(MD).md -o $(PDF).pdf
+
 preview-pdf: pdf
 	gio open $(PDF).pdf
+
 open:
 	gio open `git remote get-url origin`
+
+clean:
+	rm -f $(HTML).html $(PDF).pdf

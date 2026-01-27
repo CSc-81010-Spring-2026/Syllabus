@@ -16,7 +16,7 @@ Field | Value
 
 ## Course Description
 
-This course delves into the theory and practical application of modern compiler construction. We will survey a range of topics, from fundamental concepts like lexical and syntax analysis to more advanced subjects such as code optimization, abstract interpretation, and type systems. Other key areas of study will include intermediate code generation, control-flow and data-flow analysis. We will explore these topics through the lens of emerging methods, tools, and techniques in compiler design and implementation. Students will engage in a series of practical programming projects designed to illustrate the implementation details of various compiler components. We may also discuss, time permitting, specialized compilers, such as those for Deep Learning (DL) systems, and how Large Language Models (LLMs) are influencing the theory and practice of compiler construction.
+This course delves into the theory and practical application of modern compiler construction. We will survey a range of topics, from fundamental concepts like lexical and syntax analysis to more advanced subjects such as code optimization and type systems. Other key areas of study will include intermediate code generation, control-flow and data-flow analysis. We will explore these topics through the lens of emerging methods, tools, and techniques in compiler design and implementation. Students will engage in a series of practical programming projects designed to illustrate the implementation details of various compiler components. We may also discuss, time permitting, specialized compilers, such as those for Deep Learning (DL) systems, and how Large Language Models (LLMs) are influencing the theory and practice of compiler construction.
 
 ## Potential Topics
 
@@ -64,7 +64,7 @@ I will be working to put these books on reserve at the library. Therefore, pleas
 - Be able to implement key compiler components, such as a type checker, an intermediate code generator, and a register allocator.
 - Understand and apply common code optimization techniques, including those based on control-flow and data-flow analysis, and techniques for exploiting parallelism and locality.
 - Analyze the trade-offs between different compiler design choices.
-- Explore advanced topics such as abstract interpretation, JIT compilation, and the influence of LLMs on compiler construction (time permitting).
+- Explore advanced topics such as JIT compilation, and the influence of LLMs on compiler construction (time permitting).
 
 ## Assessment 
 
@@ -89,7 +89,7 @@ End of Spring term | May 26
 
 ## Projects
 
-The course will include several programming projects. Each will be assigned in Brightspace along with submission instructions. Assignments will be uploaded to Brightspace and the programming projects will be pushed to GitHub classroom. The exact instructions will follow. The projects must include command-line instructions on how to run the program.
+The course will include several programming projects. Each project will be submitted via Brightspace, with programming projects also pushed to GitHub classroom. Specific instructions will be provided for each project.
 
 ### Notes
 

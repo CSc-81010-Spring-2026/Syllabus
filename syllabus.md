@@ -6,7 +6,7 @@
 
 Field | Value
 --- | ---
-**Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
+**Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu){target="_blank"} 
 **Office:** | TBD
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | TBD
@@ -16,110 +16,146 @@ Field | Value
 
 ## Course Description
 
-This course is intended to be a survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the design and implementation of modern programming languages. This includes the understanding and appreciation of topics in designing and implementing modern programming languages such as attribute grammars, operational semantics, (static and dynamic) type systems, abstract interpretation, and language implementation via interpreters and compilers. We may also discuss programming language concepts for Machine Learning (ML) and Deep Learning (DL) systems, possibly including how Large Language Models (LLMs) are influencing the theory and practice of programming language design and implementation.
+This course delves into the theory and practical application of modern compiler construction. We will survey a range of topics, from fundamental concepts like lexical and syntax analysis to more advanced subjects such as code optimization, abstract interpretation, and type systems. Other key areas of study will include intermediate code generation, control-flow and data-flow analysis, and operational semantics. We will explore these topics through the lens of emerging methods, tools, and techniques in compiler design and implementation. Students will engage in a series of practical programming projects designed to illustrate the implementation details of various compiler components. We may also discuss, time permitting, specialized compilers, such as those for Deep Learning (DL) systems, and how Large Language Models (LLMs) are influencing the theory and practice of compiler construction.
 
-## Topics
+## Potential Topics
 
-Please note that this schedule is tentative:
+- Lexical analysis and lexer generation (e.g., Lex/Flex)
+- Syntax analysis and parser generation (e.g., Yacc/Bison)
+- Semantic analysis and type checking
+- Intermediate code generation (e.g., three-address code)
+- Control-flow and data-flow analysis
+- Code optimization techniques
+- Machine code generation
+- Run-time environments
+- Advanced topics (time permitting, e.g., compilers for Deep Learning [DL], JIT compilation, LLMs in compiler construction)
 
-- Attribute grammars 
-- Operational semantics 
-- Abstract interpretation
-- Type systems
-- Control-flow analysis
-- Data-flow analysis
-- Compiler optimizations
-- Programming language concepts for Machine Learning (ML) and Deep Learning (DL) systems.
+## Prerequisites
 
-## Suggested Previous Courses and Knowledge
+It is recommended that students have a background in the following areas before taking this course:
 
-- CSc 70010: Algorithms.
-- Computer Theory or equivalent, including formal languages and grammars.
-- An undergraduate course in programming languages.
-- Programming experience in an imperative and Object-Oriented, high-level language (e.g., C++, Java, Python).
+### Algorithms
+
+An undergraduate or graduate course in algorithms is recommended (e.g., CSc 70010: Algorithms).
+
+### Programming Languages and Formal Methods
+
+An undergraduate or graduate course in programming languages is recommended (e.g., CSc 71010: Programming Languages), along with familiarity with formal languages and grammars.
+
+### Programming Experience
+
+Practical experience in an imperative and Object-Oriented language (e.g., C++, Java, Python).
 
 ## Textbooks and Materials
 
 While there are no required texts, there are readings from the books listed below. All books are available at the library, but please do not check them out from the GC library. I have entered a reservation request.
 
 Title | Author | ISBN
--- | -- | --
-[Formal Specification of Programming Languages: A Panoramic Primer](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma990040389350106140) | Pagan | 9780133290523
-[Formal Syntax and Semantics of Programming Languages](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma990093884050106140) ([online](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Formal%20Syntax%20and%20Semantics%20of%20Programming%20Languages%20-%20Kenneth%20Slonneger.pdf)) | Slonneger and Kurtz | 9780201656978
-[Compilers: Principles, Techniques, & Tools](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/16jbkos/alma990090633750106140) (2nd ed.) | Aho, Lam, Sethi, and Ullman | 9780321486813
-[Semantics with Applications: A Formal Introduction](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/mjfrpc/alma990094065400106140) ([online](http://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf)) | Nielson and Nielson | 9780471929802
-[Types and Programming Languages](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/l239s4/alma990093884140106140) | Pierce | 9780262162098
+--- | --- | ---
+[Compilers: Principles, Techniques, & Tools (2nd ed.)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/16jbkos/alma990090633750106140){target="_blank"} | Aho, Lam, Sethi, and Ullman | 9780321486813
+[Modern Compiler Implementation in Java (2nd Edition)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma991023125509706121){target="_blank"} | Appel, Andrew W. | 9780521820608
 
-Please also refer to [my notes on type constraints][type constraints].
+I will be working to put these books on reserve at the library. Therefore, please do not personally check any out in the meantime. I also have a (signed :)) copy of "Compilers: Principles, Techniques, and Tools (2nd ed., commonly known as the "Dragon Book") in my office at Hunter College if you would like to borrow it. Please also refer to [my notes on type constraints][type constraints].
 
 ## Learning Goals
 
-- Be able to write attribute grammars and derivations of simple programs.
-- Be able to understand and define basic formal semantics of programming languages.
-- Be able to formulate and prove type safety theorems.
-- Be able to implement (possibly parts of) an interpreter or compiler for a small, hypothetical programming language.
-- Be able to understand and implement a type inference algorithm.
-- Be able to understand and implement an abstract interpretation algorithm.
+- Understand the major phases of a modern compiler, including lexical analysis, parsing, semantic analysis, and machine code generation.
+- Be able to use compiler construction tools, such as lexer and parser generators.
+- Be able to implement key compiler components, such as a type checker, an intermediate code generator, and a register allocator.
+- Understand and apply common code optimization techniques, including those based on control-flow and data-flow analysis, and techniques for exploiting parallelism and locality.
+- Analyze the trade-offs between different compiler design choices.
 
 ## Assessment 
 
 Category | Percentage
 --- | ---
-Assignments | 20%
-Project | 25%
+Projects | 75%
+Quizzes | 20%
 Participation | 5%
-Midterm Exam | 25%
-Final Exam | 25%
 
 ## Key Dates
 
 Event | Date
 --- | ---
-Class held on Tuesday | Feb 18
+Classes begin | Jan 26
 Midterm exam | Mar 17
-No classes scheduled | Mar 31
-Withdrawal deadline | Apr 1
-Spring recess | Apr 12--20
-Final exam | May 19
+No classes scheduled | Feb 17
+No classes scheduled | Mar 20
+Spring recess | Apr 1--9
+Last day to withdraw with a "W" | Apr 13
+Classes follow a Thursday schedule | Apr 21
+Final exam period | May 19--26
+End of Spring term | May 26
 
-## Homework
+## Projects
 
-The course will include several written assignments and programming projects. Each will be assigned in Blackboard along with submission instructions. Assignments will be uploaded to Blackboard and the programming projects will be pushed to GitHub classroom. The exact instructions will follow. The projects must include command-line instructions on how to run the program.
+The course will include several programming projects. Each will be assigned in Brightspace along with submission instructions. Assignments will be uploaded to Brightspace and the programming projects will be pushed to GitHub classroom. The exact instructions will follow. The projects must include command-line instructions on how to run the program.
 
 ### Notes
 
-- **Deadlines** and **due dates** for assignments will be assigned in class.
-- **Late assignments will be penalized.**
-- No extensions will be given for extra credit assignments, if applicable.
-- Assignments must result from **individual** effort unless otherwise noted (e.g., group projects).
+- **Deadlines** and **due dates** for all projects will be announced in class.
+- **Late submissions will be penalized.**
+- Submitted code that does not compile will receive an automatic grade of zero.
+- Extensions for extra credit assignments, if applicable, will not be granted.
+- While high-level discussions with peers are permitted, all design, coding, and debugging must be the result of individual effort. Submissions with excessive similarities will be treated as evidence of academic dishonesty. Please see the "Academic Integrity" section for more details.
+- Students are responsible for thoroughly reading project descriptions. Clarification should be sought from the instructor promptly if any part is unclear.
+- Comprehensive test cases are the responsibility of the student. Any simple test cases provided are for basic verification only.
+- All projects are due by 11:59 pm on the assigned date. Brightspace will not accept submissions after this time, and late work will receive a score of zero. Please plan accordingly to avoid last-minute issues.
 
-## Exams
+## Quizzes
 
-Test make-ups will be given if and only if:
+### Number and Setting
 
-- the request is made sufficiently in advance of the test, and
-- the make-up is scheduled prior to the next class.
+Two in-class quizzes will be held during the semester. These will be conducted in-person during the regular class period. Remote participation is not an option.
+
+### Dates and Scope
+
+Quiz dates will be announced on the Brightspace calendar. The second quiz is not cumulative and will cover material introduced after the first quiz.
+
+### Academic Integrity
+
+Quizzes must be completed individually. While quizzes are open-book and open-notes, communication with any person or the use of AI tools during the quiz is strictly forbidden. Please see the "Academic Integrity" section for more details.
+
+### Content
+
+Questions will focus on the conceptual understanding and practical application of course topics, not on rote memorization.
+
+### Make-up Policy
+
+A missed quiz will receive a score of zero. Exceptions may be granted for documented medical or family emergencies if the instructor is notified in advance via email.
 
 ## Attendance
 
 Attendance is expected for class meetings. Student are responsible for obtaining and covering any material missed due to absence.
 
-## Academic Violations
+## Academic Integrity
 
 The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others, any submitted work in this course must be the result of *individual* effort *only*. Students are *strongly* advised to read the following resources regarding academic integrity:
 
-- [Student Handbook](https://www.gc.cuny.edu/student-handbook)
-- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/sites/default/files/2021-07/AvoidingPlagiarism.pdf)
-- [Academic Honesty](https://gc.catalog.cuny.edu/general-information/academic-honesty)
-- [Academic Integrity](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy)
+- [Student Handbook](https://www.gc.cuny.edu/student-handbook){target="_blank"}
+- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/sites/default/files/2021-07/AvoidingPlagiarism.pdf){target="_blank"}
+- [Academic Honesty](https://gc.catalog.cuny.edu/general-information/academic-honesty){target="_blank"}
+- [Academic Integrity](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy){target="_blank"}
+
+### Quizzes
+
+Quizzes require individual effort; no external assistance or communication is permitted during the assessment. Refer to quiz-specific instructions for allowed materials.
+
+### Projects
+
+Collaboration on high-level concepts is permitted, but all aspects of project design, implementation, testing, and debugging must be completed independently. Sharing solutions or using another student's work is strictly prohibited. Plagiarism detection tools may be used.
+
+### Prior Work Submission
+
+Submitting work (whether your own or another's) from previous courses, even if modified, is not allowed without prior discussion and explicit approval from the instructor.
 
 ## Office Hours
 
-Office hours will be held in person once a week. See Bb for details. Attending office hours is optional, no appointment is necessary, and appointments cannot be made during office hours. Students should arrange an alternative meeting time if the scheduled office hours conflict with their schedules.
+Office hours will be held in person once a week. See Brightspace for details. Attending office hours is optional, no appointment is necessary, and appointments cannot be made during office hours. Students should arrange an alternative meeting time if the scheduled office hours conflict with their schedules.
 
 ## Email
 
-Emails to the instructor must be via a CUNY GC email address for FERPA reasons. Please ensure that your *correct* email address is entered into the [CUNY Blackboard][Blackboard].
+Emails to the instructor must be via a CUNY GC email address for FERPA reasons. Please ensure that your *correct* email address is entered into the [CUNY Brightspace][Brightspace].
 
 ## Bulletin Board
 
@@ -127,7 +163,7 @@ Students should check the [Brightspace site][Brightspace]{target="_blank"} regul
 
 ## Counseling & Wellness Services
 
-The Wellness Center Student Counseling Services offers short-term individual and group counseling and psychotherapy, couples counseling, consultation and referral services, and various programs and workshops relevant to graduate student life. More information can be found on the [Counseling Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Health-Wellness/Counseling-Services).
+The Wellness Center Student Counseling Services offers short-term individual and group counseling and psychotherapy, couples counseling, consultation and referral services, and various programs and workshops relevant to graduate student life. More information can be found on the [Counseling Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Health-Wellness/Counseling-Services){target="_blank"}.
 
 ## Special Needs
 
@@ -135,7 +171,7 @@ Students with special needs should see me for accommodation.
 
 ## ADA Compliance
 
-It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential. More information can be found on the [Disabilities Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Disability-Services).
+It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential. More information can be found on the [Disabilities Services website](https://www.gc.cuny.edu/student-disability-services){target="_blank"}.
 
 ## Family Educational Rights and Privacy Act (FERPA)
 
@@ -143,7 +179,7 @@ Please review the [student rights concerning education records][ferpa].
 
 ## Sexual Misconduct
 
-Please review the [CUNY policy on sexual misconduct](https://gc.catalog.cuny.edu/policies-of-the-graduate-center/policy-on-sexual-misconduct).
+Please review the [CUNY policy on sexual misconduct](https://gc.catalog.cuny.edu/policies-of-the-graduate-center/policy-on-sexual-misconduct){target="_blank"}.
 
 ## Instructor Biography
 
@@ -151,9 +187,9 @@ Raffi Khatchadourian is an Associate Professor in the Computer Science Departmen
 
 ## Credits
 
-Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
+This syllabus is based on Atanas Rountev's CSE 5343 course, with additional material from Neelam Soundarajan, Mike Bond, and Subash Shankar.
 
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
 [Brightspace]: http://brightspace.cuny.edu
 [ferpa]: https://gc.catalog.cuny.edu/general-information/student-rights-concerning-education-records
-[Bb]: http://bbhosted.cuny.edu
+[Brightspace]: http://brightspace.cuny.edu

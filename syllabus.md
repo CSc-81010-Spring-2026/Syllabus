@@ -6,7 +6,7 @@
 
 Field | Value
 --- | ---
-**Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu){target="_blank"} 
+**Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
 **Office:** | TBD
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | TBD
@@ -52,8 +52,8 @@ While there are no required texts, there are readings from the books listed belo
 
 Title | Author | ISBN
 --- | --- | ---
-[Compilers: Principles, Techniques, & Tools (2nd ed.)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/16jbkos/alma990090633750106140){target="_blank"} | Aho, Lam, Sethi, and Ullman | 9780321486813
-[Modern Compiler Implementation in Java (2nd Edition)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma991023125509706121){target="_blank"} | Appel, Andrew W. | 9780521820608
+[Compilers: Principles, Techniques, & Tools (2nd ed.)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/16jbkos/alma990090633750106140) | Aho, Lam, Sethi, and Ullman | 9780321486813
+[Modern Compiler Implementation in Java (2nd Edition)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma991023125509706121) | Appel, Andrew W. | 9780521820608
 
 I will be working to put these books on reserve at the library. Therefore, please do not personally check any out in the meantime. I also have a (signed :)) copy of "Compilers: Principles, Techniques, and Tools (2nd ed., commonly known as the "Dragon Book") in my office at Hunter College if you would like to borrow it. Please also refer to [my notes on type constraints][type constraints].
 
@@ -64,6 +64,7 @@ I will be working to put these books on reserve at the library. Therefore, pleas
 - Be able to implement key compiler components, such as a type checker, an intermediate code generator, and a register allocator.
 - Understand and apply common code optimization techniques, including those based on control-flow and data-flow analysis, and techniques for exploiting parallelism and locality.
 - Analyze the trade-offs between different compiler design choices.
+- Explore advanced topics such as abstract interpretation, JIT compilation, and the influence of LLMs on compiler construction (time permitting).
 
 ## Assessment 
 
@@ -132,10 +133,10 @@ Attendance is expected for class meetings. Student are responsible for obtaining
 
 The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others, any submitted work in this course must be the result of *individual* effort *only*. Students are *strongly* advised to read the following resources regarding academic integrity:
 
-- [Student Handbook](https://www.gc.cuny.edu/student-handbook){target="_blank"}
-- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/sites/default/files/2021-07/AvoidingPlagiarism.pdf){target="_blank"}
-- [Academic Honesty](https://gc.catalog.cuny.edu/general-information/academic-honesty){target="_blank"}
-- [Academic Integrity](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy){target="_blank"}
+- [Student Handbook](https://www.gc.cuny.edu/student-handbook)
+- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/sites/default/files/2021-07/AvoidingPlagiarism.pdf)
+- [Academic Honesty](https://gc.catalog.cuny.edu/general-information/academic-honesty)
+- [Academic Integrity](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy)
 
 ### Quizzes
 
@@ -159,11 +160,11 @@ Emails to the instructor must be via a CUNY GC email address for FERPA reasons. 
 
 ## Bulletin Board
 
-Students should check the [Brightspace site][Brightspace]{target="_blank"} regularly for class materials. Students should ensure that they have configured Brightspace to use a *CUNY* email address. Students are responsible for any email the instructor send there.
+Students should check the [Brightspace site][Brightspace] regularly for class materials. Students should ensure that they have configured Brightspace to use a *CUNY* email address. Students are responsible for any email the instructor send there.
 
 ## Counseling & Wellness Services
 
-The Wellness Center Student Counseling Services offers short-term individual and group counseling and psychotherapy, couples counseling, consultation and referral services, and various programs and workshops relevant to graduate student life. More information can be found on the [Counseling Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Health-Wellness/Counseling-Services){target="_blank"}.
+The Wellness Center Student Counseling Services offers short-term individual and group counseling and psychotherapy, couples counseling, consultation and referral services, and various programs and workshops relevant to graduate student life. More information can be found on the [Counseling Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Health-Wellness/Counseling-Services).
 
 ## Special Needs
 
@@ -171,7 +172,7 @@ Students with special needs should see me for accommodation.
 
 ## ADA Compliance
 
-It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential. More information can be found on the [Disabilities Services website](https://www.gc.cuny.edu/student-disability-services){target="_blank"}.
+It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential. More information can be found on the [Disabilities Services website](https://www.gc.cuny.edu/student-disability-services).
 
 ## Family Educational Rights and Privacy Act (FERPA)
 
@@ -179,7 +180,7 @@ Please review the [student rights concerning education records][ferpa].
 
 ## Sexual Misconduct
 
-Please review the [CUNY policy on sexual misconduct](https://gc.catalog.cuny.edu/policies-of-the-graduate-center/policy-on-sexual-misconduct){target="_blank"}.
+Please review the [CUNY policy on sexual misconduct](https://gc.catalog.cuny.edu/policies-of-the-graduate-center/policy-on-sexual-misconduct).
 
 ## Instructor Biography
 

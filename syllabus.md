@@ -97,7 +97,6 @@ The course will include several programming projects. Each project will be submi
 - **Late submissions will be penalized.**
 - Submitted code that does not compile will receive an automatic grade of zero.
 - Extensions for extra credit assignments, if applicable, will not be granted.
-- While high-level discussions with peers are permitted, all design, coding, and debugging must be the result of individual effort. Submissions with excessive similarities will be treated as evidence of academic dishonesty. Please see the "Academic Integrity" section for more details.
 - Students are responsible for thoroughly reading project descriptions. Clarification should be sought from the instructor promptly if any part is unclear.
 - Comprehensive test cases are the responsibility of the student. Any simple test cases provided are for basic verification only.
 - All projects are due by 11:59 pm on the assigned date. Please plan accordingly to avoid last-minute issues.

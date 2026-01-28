@@ -37,8 +37,6 @@ This course delves into the theory and practical application of modern compiler 
 - An undergraduate course in programming languages or compiler construction.
 - Programming experience in an imperative and Object-Oriented, high-level language (e.g., C++, Java, Python).
 
-It is recommended that students have a background in the following areas before taking this course:
-
 ## Textbooks and Materials
 
 While there are no required texts, there are readings from the books listed below. All books are available at the library, but please do not check them out from the GC library. I have entered a reservation request. I also have a (signed :)) copy of "Compilers: Principles, Techniques, and Tools (2nd ed., commonly known as the "Dragon Book") in my office at Hunter College if you would like to borrow it.
@@ -79,7 +77,7 @@ Final exam period | May 19--26
 
 ## Projects
 
-The course will include several programming projects. Each project will be submitted via Brightspace, with programming projects also pushed to GitHub classroom. Specific instructions will be provided for each project.
+The course will include several programming projects. Each will be assigned in Brightspace along with submission instructions. Projects will be pushed to GitHub Classroom. The exact instructions will follow.
 
 ### Notes
 
@@ -87,30 +85,8 @@ The course will include several programming projects. Each project will be submi
 - **Late submissions will be penalized.**
 - Extensions for extra credit assignments, if applicable, will not be granted.
 - Assignments must result from **individual** effort unless otherwise specified (e.g., group projects).
-- Submitted code that does not compile will receive an automatic grade of zero.
-- Students are responsible for thoroughly reading project descriptions. Clarification should be sought from the instructor promptly if any part is unclear.
-- Comprehensive test cases are the responsibility of the student. Any simple test cases provided are for basic verification only.
-- All projects are due by 11:59 pm on the assigned date. Please plan accordingly to avoid last-minute issues.
 
 ## Quizzes
-
-### Number and Setting
-
-Two in-class quizzes will be held during the semester. These will be conducted in-person during the regular class period. Remote participation is not an option.
-
-### Dates and Scope
-
-Quiz dates will be announced on the Brightspace calendar. The second quiz is not cumulative and will cover material introduced after the first quiz.
-
-### Academic Integrity
-
-Quizzes must be completed individually. While quizzes are open-book and open-notes, communication with any person or the use of AI tools during the quiz is strictly forbidden. Please see the "Academic Integrity" section for more details.
-
-### Content
-
-Questions will focus on the conceptual understanding and practical application of course topics, not on rote memorization.
-
-### Make-up Policy
 
 Quiz make-ups will be given if and only if:
 
@@ -129,18 +105,6 @@ The classroom environment employed will be that of a professional one. While stu
 - [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/sites/default/files/2021-07/AvoidingPlagiarism.pdf)
 - [Academic Honesty](https://gc.catalog.cuny.edu/general-information/academic-honesty)
 - [Academic Integrity](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy)
-
-### Quizzes
-
-Quizzes require individual effort; no external assistance or communication is permitted during the assessment. Refer to quiz-specific instructions for allowed materials.
-
-### Projects
-
-Collaboration on high-level concepts is permitted, but all aspects of project design, implementation, testing, and debugging must be completed independently. Sharing solutions or using another student's work is strictly prohibited. Plagiarism detection tools may be used.
-
-### Prior Work Submission
-
-Submitting work (whether your own or another's) from previous courses, even if modified, is not allowed without prior discussion and explicit approval from the instructor.
 
 ## Office Hours
 
@@ -180,7 +144,7 @@ Raffi Khatchadourian is an Associate Professor in the Computer Science Departmen
 
 ## Credits
 
-This syllabus is based on Atanas Rountev's CSE 5343 course, with additional material from Neelam Soundarajan, Mike Bond, and Subash Shankar.
+Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
 
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
 [Brightspace]: http://brightspace.cuny.edu

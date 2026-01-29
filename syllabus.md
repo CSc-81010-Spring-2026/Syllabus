@@ -144,7 +144,7 @@ Raffi Khatchadourian is an Associate Professor in the Computer Science Departmen
 
 ## Credits
 
-Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
+This syllabus is based on Atanas Rountev's CSE 5343 course, with additional material from Neelam Soundarajan, Mike Bond, and Subash Shankar.
 
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
 [Brightspace]: http://brightspace.cuny.edu

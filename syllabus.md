@@ -39,7 +39,7 @@ This course delves into the theory and practical application of modern compiler 
 
 ## Textbooks and Materials
 
-While there are no required texts, there are readings from the books listed below. All books are available at the library, but please do not check them out from the GC library. I have entered a reservation request. I also have a (signed :)) copy of "Compilers: Principles, Techniques, and Tools (2nd ed., commonly known as the "Dragon Book") in my office at Hunter College if you would like to borrow it.
+While there are no required texts, there are readings from the books listed below. All books are available at the library, and I have put them [on reserve][reserve] (please see Brightspace for the password). They are also available for purchase [online][bookstore]. I also have a (signed :)) copy of "Compilers: Principles, Techniques, and Tools (2nd ed., commonly known as the "Dragon Book") in my office at Hunter College if you would like to borrow it.
 
 Title | Author | ISBN
 --- | --- | ---
@@ -150,3 +150,5 @@ This syllabus is based on Atanas Rountev's CSE 5343 course, with additional mate
 [Brightspace]: http://brightspace.cuny.edu
 [ferpa]: https://gc.catalog.cuny.edu/general-information/student-rights-concerning-education-records
 [Brightspace]: http://brightspace.cuny.edu
+[reserve]: https://libguides.gc.cuny.edu/er.php?b=c
+[bookstore]: https://gc.textbookx.com/institutional/index.php?action=browse#books/5294813

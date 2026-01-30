@@ -150,5 +150,5 @@ This syllabus is based on Atanas Rountev's CSE 5343 course, with additional mate
 [Brightspace]: http://brightspace.cuny.edu
 [ferpa]: https://gc.catalog.cuny.edu/general-information/student-rights-concerning-education-records
 [Brightspace]: http://brightspace.cuny.edu
-[reserve]: https://libguides.gc.cuny.edu/er.php?b=c
+[reserve]: https://libguides.gc.cuny.edu/er.php?course_id=124270
 [bookstore]: https://gc.textbookx.com/institutional/index.php?action=browse#books/5294813

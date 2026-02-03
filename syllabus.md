@@ -43,7 +43,7 @@ While there are no required texts, there are readings from the books listed belo
 
 Title | Author | ISBN
 --- | --- | ---
-[Compilers: Principles, Techniques, & Tools (2nd ed.)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/16jbkos/alma990090633750106140) | Aho, Lam, Sethi, and Ullman | 9780321486813
+[Compilers: Principles, Techniques, & Tools (2nd ed.)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/16jbkos/alma990090633750106140) ([errata](http://infolab.stanford.edu/~ullman/dragon/errata.html)) | Aho, Lam, Sethi, and Ullman | 9780321486813
 [Modern Compiler Implementation in Java (2nd Edition)](https://cuny-gc.primo.exlibrisgroup.com/permalink/01CUNY_GC/15fl2fe/alma991023125509706121) | Appel, Andrew W. | 9780521820608
 
 Please also refer to [my notes on type constraints][type constraints].

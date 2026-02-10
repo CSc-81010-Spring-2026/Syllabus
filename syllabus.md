@@ -7,7 +7,7 @@
 Field | Value
 --- | ---
 **Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
-**Office:** | Graduate Center, Room 4327
+**Office:** | Graduate Center, Room 4410
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | TBD
 **Office hour:** | T 11:45 am--12:45 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments/)
